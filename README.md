@@ -1,2 +1,2 @@
 # project_Euler
-Repository for project euler problems solved in C
+Project Euler problems solved in C
